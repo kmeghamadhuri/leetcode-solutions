@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
