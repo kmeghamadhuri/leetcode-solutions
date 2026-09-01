@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Array
@@ -19,4 +20,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
