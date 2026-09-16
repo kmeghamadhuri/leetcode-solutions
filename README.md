@@ -31,18 +31,22 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
