@@ -48,5 +48,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
