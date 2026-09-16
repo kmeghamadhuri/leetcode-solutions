@@ -32,6 +32,7 @@
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,12 +45,14 @@
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
