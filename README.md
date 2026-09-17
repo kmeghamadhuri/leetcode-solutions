@@ -32,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [3827-count-monobit-integers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3827-count-monobit-integers/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3827-count-monobit-integers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3827-count-monobit-integers/) | Easy |
 | [4024-nearest-available-drone](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
