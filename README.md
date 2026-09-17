@@ -21,6 +21,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Bit Manipulation
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,18 +72,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
