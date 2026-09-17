@@ -9,6 +9,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3765-complete-prime-number](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3765-complete-prime-number/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,10 +114,15 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3765-complete-prime-number](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3765-complete-prime-number/) | Medium |
 | [3827-count-monobit-integers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3827-count-monobit-integers/) | Easy |
 | [4024-nearest-available-drone](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3765-complete-prime-number](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3765-complete-prime-number/) | Medium |
 <!---LeetCode Topics End-->
