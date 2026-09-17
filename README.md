@@ -14,6 +14,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
