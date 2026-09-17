@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2443-sum-of-number-and-its-reverse](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -108,6 +109,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
