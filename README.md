@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0997-find-the-town-judge](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -74,6 +75,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0997-find-the-town-judge](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3765-complete-prime-number](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3765-complete-prime-number/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
