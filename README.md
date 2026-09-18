@@ -50,6 +50,7 @@
 | [0101-symmetric-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0841-keys-and-rooms](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0841-keys-and-rooms](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -130,5 +132,6 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
