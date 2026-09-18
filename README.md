@@ -78,6 +78,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0997-find-the-town-judge](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [2374-node-with-highest-edge-score](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2374-node-with-highest-edge-score/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +135,5 @@
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [2374-node-with-highest-edge-score](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2374-node-with-highest-edge-score/) | Medium |
 <!---LeetCode Topics End-->
