@@ -19,6 +19,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2951-find-the-peaks/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [4024-nearest-available-drone](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Two Pointers
@@ -32,6 +33,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +146,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
