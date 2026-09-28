@@ -28,6 +28,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -71,10 +72,12 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0997-find-the-town-judge](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -136,4 +139,8 @@
 | [0841-keys-and-rooms](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [2374-node-with-highest-edge-score](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/2374-node-with-highest-edge-score/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
