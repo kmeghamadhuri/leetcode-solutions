@@ -158,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kmeghamadhuri/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 <!---LeetCode Topics End-->
